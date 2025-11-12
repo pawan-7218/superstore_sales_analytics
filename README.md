@@ -3,6 +3,14 @@
 ## Project Overview
 Analyze Superstore sales to identify top categories, customer segments, and forecast near-term sales. Built with Python, SQL, and Power BI.
 
+## 📂 Dataset Source
+
+This project uses the **Superstore Sales Dataset** from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
+
+- 📊 Contains around **10,000 rows** and **21 columns**.
+- 🏪 Includes details about **orders, customers, regions, categories, sales, profit, and shipping**.
+- 🧹 Cleaned and preprocessed using **Python (Pandas, NumPy)** before analysis.
+
 ## Folder structure
 data/
 notebooks/
