@@ -1,0 +1,27 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore local database files
+*.db
+*.sqlite
+
+# Ignore Power BI project files (if too large)
+*.pbix
+
+# Ignore environment/config files
+.env
+
+# Ignore temporary and backup files
+*.log
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
