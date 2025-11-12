@@ -11,8 +11,6 @@ sql/
 README.md
 requirements.txt
 
-markdown
-Copy code
 
 ## Tools & Libraries
 Python (pandas, numpy, scikit-learn), SQLite, Power BI Desktop, Jupyter Notebook
@@ -46,7 +44,7 @@ Python (pandas, numpy, scikit-learn), SQLite, Power BI Desktop, Jupyter Notebook
 ## 📊 Power BI Dashboard Preview
 ![Superstore Sales Dashboard](dashboards/overview_dashboard.png)
 ![Category Analysis](dashboards/category_analysis.png)
-![Regional Analysis](dashboards/regional_analysis.png.png)
+![Regional Analysis](dashboards/regional_analysis.png)
 
 ## 💼 Connect With Me
  🔗 [LinkedIn](https://www.linkedin.com/in/pavan-zade-22b839290/)  
